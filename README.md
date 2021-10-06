@@ -1,1 +1,1 @@
-This is my second repository experiment
+This website is for my internship project.

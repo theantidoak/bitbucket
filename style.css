@@ -1,0 +1,22 @@
+.header .logo {
+    float: left;
+    width: 120px;
+    height: auto;
+    background: #555;
+}
+
+.header h1 {
+    margin-left: 400px;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    color: brown;
+    display: inline;
+}
+
+p {
+    color: rgb(97, 161, 97);
+    font-weight: bold;
+    font-family: monospace, 'Courier New';
+    font-size: 15px;
+    margin-left: 460px;
+}
