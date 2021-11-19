@@ -1,22 +1,60 @@
 .header .logo {
+    display: block;
     float: left;
     width: 120px;
     height: auto;
-    background: #555;
+    border: 5px dotted yellow;
 }
 
 .header h1 {
-    margin-left: 400px;
+    display: inline-block;
+    color: brown;
     font-family: 'Trebuchet MS', sans-serif;
     font-size: 50px;
-    color: brown;
-    display: inline;
+    background-color: skyblue;
+    border: 2px dotted black;
+    margin-left: 7em;
 }
 
-p {
-    color: rgb(97, 161, 97);
-    font-weight: bold;
+.slogan {
+    display: block;
+    color: green;
     font-family: monospace, 'Courier New';
     font-size: 15px;
-    margin-left: 460px;
+    font-weight: bold;
+    border: 2px dotted black;
+    float: right;
+
+}
+
+.body p {
+    color: blue;
+    margin-top: 0;
+    padding: 40px;
+    border: 2px dotted black;
+}
+
+
+.me {
+    display: block;
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+    border: 10px;
+    border-color: brown;
+    border-style: groove;
+    margin-left: 21.5em;
+}
+
+.experi {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: monotone;
+    border: 2px dotted red;
+    padding: 10px;
+    width: 200px;
+    margin: 25px auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 20.5em;
 }
